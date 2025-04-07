@@ -1,14 +1,16 @@
 <p align="center">
   <a href="https://github.com/Eltertate">
-    <img src="https://github.com/Eltertate/Eltertate/blob/main/Eltertate.svg" alt="Eltertate" /></a>
+    <img src="https://www.universalmusic.com.br/files/2021/07/0074_eminem-750x360.jpg" alt="Eltertate" /></a>
 </p>
 <p align="center">
     <a href="https://github.com/Eltertate">
-      <img src="https://readme-typing-svg.demolab.com?font=Titillium+Web+&pause=1000&center=true&width=435&lines=Always+learning+something+new+for+me;My+best+skill+it's+a+googling;I+think+I+should+change+this+text;I'm+not+a+magician+I'm+just+learning" alt="Typing SVG" />
+      <img src="https://storage.googleapis.com/pod_public/1300/266522.jpg" alt="Typing SVG" height="300" />
+
+      That's me!
   </a>
 </p>
 
-# Eltertate
+# Eltertate (GAY)
 
 **`Student of Programming`**
 
@@ -57,13 +59,13 @@
 
 <h2>
 
-* Angular
-* React
-* C#
-* Python
-* C++
-* JS
-* Algorithms
+* PHP
+* PHP
+* PHP
+* PHP
+* PHP
+* PHP
+* JavaScript
 
 </h2>
 
@@ -71,9 +73,9 @@
 
 ![wallpaper-anime](https://user-images.githubusercontent.com/116920374/211173283-0468186e-2d9a-4ff5-96d2-e60a2f40ddc0.gif)
 
-**`So long as a problem doesn’t cause problems, it can’t be called a problem. *hikigaya`**
+**`So long as a problem doesn’t cause problems, it can’t be called a problem. Apparently. Idk. *hikigaya`**
 
-<h2>🔥 Streak: </h2>
+<h2>🔥 Win Streak (Not in League of Legends (yet)): </h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Eltertate&theme=github-dark-blue)](https://git.io/streak-stats) <a href="https://github.com/Eltertate/github-readme-stats">
 
